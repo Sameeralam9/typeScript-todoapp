@@ -1,8 +1,11 @@
+import Button from "./components/Button"
+
+
 function App() {
 
   return (
    <div>
-    hi
+ <Button text="Add Todo"/>
    </div>
   )
 }
